@@ -1,0 +1,13 @@
+REWRITE_TARGETS:
+- check_dependencies failure prints
+- THEME_PRESETS block
+- default_settings appearance accent
+- normalize_settings accent fallback
+- prepare_zpl_payload error strings
+- send_zpl_over_tcp error string
+- ConfigNameDialog class
+- AppearanceDialog class
+- TemplateItemWidget class
+- VariableRow auto checkbox label
+- window title and preview title
+- open_templates file dialog caption/filter
